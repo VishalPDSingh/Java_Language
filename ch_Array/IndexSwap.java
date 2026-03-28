@@ -18,7 +18,7 @@ public class IndexSwap {
 		int a[] = new int[n];
 		System.out.println("Enter the value of index to swap: ");
 		int x = scanner.nextInt();
-		int y = scanner.nextInt();
+		int y = scanner.nextInt(); 
 
 		for (int i = 0; i < n; i++) {
 			a[i] = scanner.nextInt();
